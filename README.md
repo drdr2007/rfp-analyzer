@@ -2,5 +2,5 @@
 rfp-analyzer
 
 
-https://drdr2007.github.io/rfp-dates/
+https://drdr2007.github.io/rfp-analyzer/
 
